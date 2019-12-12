@@ -2,7 +2,7 @@
 #include <Console.h>
 #include <SPI.h>
 #include <RH_RF95.h>
-#define ID 3
+#define ID 7
 
 // Singleton instance of the radio driver
 RH_RF95 rf95;
